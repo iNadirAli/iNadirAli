@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iNadirAli
-- :man_office_worker: Business Development Executive @ BlockApex | https://blockapex.io/
+- :man_office_worker: Head of Business Development @ BlockApex | https://blockapex.io/
 - 👀 I’m interested in Blockchain security, DeFi & web 3 compliances...
 - 🌱 I’m currently learning tokenomics and financial risk assessment for Defi w.r.t security
 - 💞️ I’m looking to collaborate on projects looking for security audits, DeFi risk assesment, and Tokenomics deisgn...
